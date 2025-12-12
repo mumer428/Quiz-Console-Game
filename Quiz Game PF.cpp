@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <fstream>
 #include <string>
 #include <cctype>
@@ -7,13 +7,14 @@
 using namespace std;
 //ye hum ne function bnaya hai jo hm 50-50 lifeline k liye use kren gy
 void lifeline5050(string options[], char correct) {
-    int wrong[3];
+    int wrong[3],w=0;
     //Array mn wrong answers store karain ge
     for (int i = 0; i < 4; i++) {
         char letter = 'A' + i;
 		//A,B,C,D ko letters assign kiye hain
         if (letter != correct) {
-            wrong[i] = i;
+            wrong[w] = i;
+            w++;
             //wrong array mn wrong answer k index store kr rhe
         }
     }

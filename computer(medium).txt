@@ -1,0 +1,469 @@
+Which scheduling algorithm prevents starvation using aging?
+A) Round Robin
+B) Priority Scheduling
+C) Multilevel Queue
+D) Multilevel Feedback Queue
+D
+Which of the following is a NoSQL database?
+A) MySQL
+B) Oracle
+C) MongoDB
+D) SQL Server
+C
+Which protocol secures encrypted communication over networks?
+A) TCP
+B) HTTP
+C) SSH
+D) ARP
+C
+Which IEEE standard defines WiFi?
+A) 802.3
+B) 802.11
+C) 802.5
+D) 802.15
+B
+Which technique is used for dynamic memory allocation in C?
+A) new
+B) malloc
+C) alloc
+D) init
+B
+Which search algorithm divides the array into halves?
+A) Linear search
+B) Binary search
+C) Interpolation search
+D) Jump search
+B
+Which data structure uses LIFO?
+A) Queue
+B) Stack
+C) Tree
+D) Graph
+B
+Which algorithm is used for finding the shortest path in graphs?
+A) Merge Sort
+B) Kruskal’s
+C) Dijkstra’s
+D) Prim’s
+C
+Which RAID level provides only mirroring?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+B
+Which component translates Java code into bytecode?
+A) Assembler
+B) Compiler
+C) Interpreter
+D) JVM
+B
+Which OS concept keeps processes isolated?
+A) Paging
+B) Virtualization
+C) Segmentation
+D) Protection
+D
+Which scheduling algorithm is preemptive?
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority (non-preemptive)
+C
+Which data structure is used for BFS?
+A) Stack
+B) Queue
+C) Tree
+D) Array
+B
+Which part of the OS manages memory allocation?
+A) Shell
+B) Kernel
+C) Command interpreter
+D) Driver
+B
+Which layer of OSI handles encryption?
+A) Data Link
+B) Network
+C) Presentation
+D) Transport
+C
+Which database operation ensures atomicity?
+A) Join
+B) Primary key
+C) Transaction
+D) Group By
+C
+Which algorithm is used for public-key encryption?
+A) AES
+B) DES
+C) RSA
+D) SHA
+C
+Which scheduling algorithm gives shortest job first?
+A) RR
+B) SJF
+C) FCFS
+D) EDF
+B
+Which C++ keyword handles exceptions?
+A) case
+B) throw
+C) return
+D) goto
+B
+Which cache mapping method is fastest?
+A) Direct mapping
+B) Associative
+C) Set associative
+D) Tree mapping
+A
+Which disk scheduling algorithm is also called elevator algorithm?
+A) FCFS
+B) SCAN
+C) LOOK
+D) C-SCAN
+B
+What does ACID stand for in databases?
+A) Atomicity, Consistency, Isolation, Durability
+B) Accuracy, Control, Index, Data
+C) Automatic, Conditional, Internal, Delete
+D) Array, Class, Interface, Data
+A
+Which algorithm is used for sorting in worst-case O(n log n)?
+A) Bubble Sort
+B) Insertion Sort
+C) Quick Sort
+D) Merge Sort
+D
+Which compiler phase checks variable declarations?
+A) Semantic analysis
+B) Lexical analysis
+C) Parsing
+D) Optimization
+A
+Which protocol is used for secure web browsing?
+A) HTTP
+B) FTP
+C) HTTPS
+D) WSL
+C
+Which machine learning algorithm is supervised?
+A) K-means
+B) Apriori
+C) Linear Regression
+D) PCA
+C
+Which memory is volatile?
+A) SSD
+B) ROM
+C) Flash
+D) RAM
+D
+Which tree is used in database indexing?
+A) Binary Tree
+B) AVL Tree
+C) B-Tree
+D) Trie
+C
+Which UNIX command lists files?
+A) ls
+B) rm
+C) cd
+D) mv
+A
+Which addressing mode uses a register’s value directly?
+A) Indirect
+B) Indexed
+C) Register
+D) Immediate
+C
+Which of the following is not a hashing collision method?
+A) Chaining
+B) Linear probing
+C) Quadratic probing
+D) Pivoting
+D
+Which protocol assigns IP addresses automatically?
+A) RARP
+B) SMTP
+C) DHCP
+D) ARP
+C
+Which scheduling algorithm is optimal for minimizing waiting time?
+A) FCFS
+B) SJF
+C) RR
+D) LJF
+B
+What is the time complexity of binary search?
+A) O(n)
+B) O(log n)
+C) O(n²)
+D) O(1)
+B
+Which system call creates a new process in UNIX?
+A) exec()
+B) fork()
+C) kill()
+D) wait()
+B
+Which concept allows multiple threads to run on multiple cores?
+A) Parallelism
+B) Pipelining
+C) Paging
+D) Multitasking
+A
+Which graph algorithm detects cycles?
+A) Dijkstra’s
+B) DFS
+C) BFS
+D) Prim’s
+B
+Which memory is closest to the CPU?
+A) RAM
+B) Registers
+C) Cache
+D) Hard Disk
+B
+Which OS technique swaps processes between RAM and disk?
+A) Caching
+B) Spooling
+C) Virtual Memory
+D) Pipelining
+C
+Which RAID provides both speed and redundancy?
+A) RAID 0
+B) RAID 1
+C) RAID 5
+D) RAID 10
+D
+Which protocol secures data using certificates?
+A) SSL/TLS
+B) DHCP
+C) SFTP
+D) ICMP
+A
+Which structure is used for DFS?
+A) Queue
+B) Stack
+C) Tree
+D) Heap
+B
+Which key uniquely identifies a row in a database?
+A) Foreign key
+B) Primary key
+C) Alternate key
+D) Composite key
+B
+Which algorithm is used for Minimum Spanning Tree?
+A) QuickSort
+B) Kruskal’s
+C) MergeSort
+D) Binary Search
+B
+Which language is used for statistical computing?
+A) Java
+B) C#
+C) R
+D) PHP
+C
+Which command compiles a Java program?
+A) javac
+B) java
+C) jshell
+D) jmake
+A
+Which operator allocates memory in C++?
+A) malloc
+B) free
+C) new
+D) alloc
+C
+Which scheduling algorithm uses multiple queues by priority?
+A) FIFO
+B) MLQ
+C) RR
+D) SCAN
+B
+NEW 30 UNIQUE QUESTIONS:
+Which protocol is used to send emails?
+A) SMTP
+B) FTP
+C) TELNET
+D) SSH
+A
+Which data structure follows FIFO?
+A) Stack
+B) Queue
+C) Graph
+D) Tree
+B
+Which number system is base-16?
+A) Binary
+B) Decimal
+C) Hexadecimal
+D) Octal
+C
+Which CPU scheduling algorithm selects the next process with the highest priority?
+A) FCFS
+B) RR
+C) Priority
+D) LRU
+C
+Which device converts digital data to analog signals?
+A) Hub
+B) Switch
+C) Modem
+D) Router
+C
+Which layer of OSI handles routing?
+A) Session
+B) Network
+C) Data Link
+D) Physical
+B
+Which symbol is used for comments in C++ single-line comments?
+A) /*
+B) //
+C) #
+D) <>
+B
+Which type of software is an operating system?
+A) Application
+B) Utility
+C) System
+D) Driver
+C
+Which type of key allows duplicate values in databases?
+A) Primary key
+B) Foreign key
+C) Candidate key
+D) Composite key
+B
+Which algorithm is used in machine learning for classification?
+A) K-means
+B) Naive Bayes
+C) Apriori
+D) PCA
+B
+Which machine cycle executes instructions?
+A) Fetch
+B) Decode
+C) Execute
+D) Interrupt
+C
+Which HTML tag inserts a line break?
+A) <p>
+B) <br>
+C) <hr>
+D) <line>
+B
+Which binary operator has highest precedence?
+A) +
+B) *
+C) =
+D) &&
+B
+Which file system is used by Windows?
+A) EXT4
+B) FAT32
+C) NTFS
+D) HFS
+C
+Which protocol transfers files over the internet?
+A) FTP
+B) SMTP
+C) SNMP
+D) POP3
+A
+Which device stores BIOS?
+A) Hard Disk
+B) RAM
+C) ROM
+D) SSD
+C
+Which register stores the next instruction address?
+A) IR
+B) MAR
+C) PC
+D) ACC
+C
+Which scheduling algorithm works best for time-sharing systems?
+A) RR
+B) FCFS
+C) SJF
+D) LJF
+A
+Which structure is needed to implement recursion?
+A) Queue
+B) Stack
+C) Array
+D) Heap
+B
+Which type of malware replicates itself?
+A) Worm
+B) Trojan
+C) Spyware
+D) Rootkit
+A
+Which SQL command removes a table?
+A) DELETE
+B) DROP
+C) REMOVE
+D) ERASE
+B
+Which protocol is used for domain name resolution?
+A) DNS
+B) DHCP
+C) SSH
+D) FTP
+A
+Which topology uses a central device?
+A) Mesh
+B) Bus
+C) Star
+D) Ring
+C
+Which operator is used for pointer dereferencing in C++?
+A) &
+B) *
+C) ->
+D) %
+B
+Which addressing mode uses a constant operand?
+A) Indirect
+B) Immediate
+C) Register
+D) Indexed
+B
+Which type of memory stores the bootloader?
+A) RAM
+B) Cache
+C) ROM
+D) Register
+C
+Which unit measures clock speed?
+A) Mbps
+B) GHz
+C) Hz
+D) RPM
+B
+Which algorithm is used for encryption in WiFi WPA2?
+A) AES
+B) RSA
+C) MD5
+D) SHA-1
+A
+Which DSL signal filter is used in modems?
+A) Microfilter
+B) Amplifier
+C) Router
+D) Splitter
+A
+Which tool monitors network packets?
+A) Wireshark
+B) Chrome
+C) Java
+D) Docker
+A

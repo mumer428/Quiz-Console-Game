@@ -1,0 +1,481 @@
+Which number comes next in the sequence: 2, 4, 6, 8?
+A) 9
+B) 10
+C) 12
+D) 14
+B
+If A = 1, B = 2, C = 3, what is the value of E?
+A) 3
+B) 4
+C) 5
+D) 6
+C
+Which one is the odd number?
+A) 2
+B) 4
+C) 6
+D) 9
+D
+A triangle has how many sides?
+A) 2
+B) 3
+C) 4
+D) 5
+B
+Which shape has 4 equal sides?
+A) Rectangle
+B) Triangle
+C) Square
+D) Pentagon
+C
+Which number is smallest?
+A) 8
+B) 12
+C) 5
+D) 20
+C
+What comes after Sunday?
+A) Monday
+B) Friday
+C) Saturday
+D) Tuesday
+A
+Which one is a fruit?
+A) Carrot
+B) Potato
+C) Apple
+D) Spinach
+C
+What comes next: 5, 10, 15, 20?
+A) 22
+B) 25
+C) 30
+D) 35
+B
+Which number is even?
+A) 7
+B) 11
+C) 14
+D) 19
+C
+Which of the following can fly?
+A) Dog
+B) Cat
+C) Bird
+D) Cow
+C
+Which is the largest?
+A) 3
+B) 9
+C) 6
+D) 2
+B
+Which figure has 3 sides?
+A) Square
+B) Triangle
+C) Circle
+D) Hexagon
+B
+Which month has 28 or 29 days?
+A) January
+B) February
+C) March
+D) April
+B
+Which animal barks?
+A) Cat
+B) Dog
+C) Cow
+D) Goat
+B
+Which is a primary color?
+A) Green
+B) Purple
+C) Red
+D) Pink
+C
+Which is a cold place?
+A) Desert
+B) Beach
+C) Mountain
+D) Arctic
+D
+What comes next: 1, 4, 7, 10?
+A) 11
+B) 12
+C) 13
+D) 14
+B
+How many days are in a week?
+A) 5
+B) 6
+C) 7
+D) 8
+C
+Which number is greatest?
+A) 12
+B) 18
+C) 9
+D) 3
+B
+Which direction is opposite of North?
+A) West
+B) East
+C) South
+D) Center
+C
+Which one does NOT belong?
+A) Apple
+B) Banana
+C) Orange
+D) Onion
+D
+If you subtract 5 from 14, what do you get?
+A) 7
+B) 9
+C) 10
+D) 11
+B
+Which of these animals lives in water?
+A) Lion
+B) Crocodile
+C) Horse
+D) Goat
+B
+Which one is used for cutting?
+A) Spoon
+B) Knife
+C) Plate
+D) Cup
+B
+Which shape has no sides?
+A) Circle
+B) Square
+C) Triangle
+D) Rectangle
+A
+Which number comes next: 3, 6, 12, 24?
+A) 28
+B) 36
+C) 48
+D) 60
+C
+Which is the smallest fraction?
+A) 1/2
+B) 1/4
+C) 3/4
+D) 2/4
+B
+Which is the odd one out?
+A) Car
+B) Bus
+C) Train
+D) Cup
+D
+What comes after 19?
+A) 18
+B) 19
+C) 20
+D) 21
+C
+Which one is a vegetable?
+A) Mango
+B) Onion
+C) Banana
+D) Apple
+B
+Which shape has 8 sides?
+A) Pentagon
+B) Octagon
+C) Hexagon
+D) Triangle
+B
+Which number is odd?
+A) 10
+B) 12
+C) 15
+D) 20
+C
+Which is heavier?
+A) Feather
+B) Balloon
+C) Stone
+D) Paper
+C
+Which number completes the pattern: 10, 9, 8, 7?
+A) 5
+B) 6
+C) 7
+D) 8
+B
+How many months have 30 days?
+A) 2
+B) 4
+C) 6
+D) 8
+C
+Which is the odd one out?
+A) Cat
+B) Lion
+C) Tiger
+D) Elephant
+D
+Which number comes next: 11, 22, 33, 44?
+A) 45
+B) 55
+C) 66
+D) 77
+B
+Which one is the smallest?
+A) 0
+B) 2
+C) 5
+D) 8
+A
+Which animal gives milk?
+A) Cow
+B) Wolf
+C) Lion
+D) Tiger
+A
+Which is the odd one out?
+A) Red
+B) Blue
+C) Yellow
+D) Black
+D
+Which number comes next: 100, 90, 80, 70?
+A) 60
+B) 65
+C) 72
+D) 55
+A
+Which is a mode of transport?
+A) Chair
+B) Car
+C) Plate
+D) Bottle
+B
+Which of these is a living thing?
+A) Rock
+B) Tree
+C) Water
+D) Plastic
+B
+Which comes first?
+A) Run
+B) Walk
+C) Sleep
+D) Eat
+B
+Which number is missing: 4, 8, __, 16?
+A) 10
+B) 12
+C) 14
+D) 20
+B
+Which animal is largest?
+A) Cat
+B) Cow
+C) Dog
+D) Mouse
+B
+Which shape has 5 sides?
+A) Octagon
+B) Pentagon
+C) Square
+D) Circle
+B
+Which number is next: 9, 18, 27, 36?
+A) 40
+B) 45
+C) 50
+D) 55
+B
+Which is the opposite of light?
+A) Dark
+B) Bright
+C) Shiny
+D) Glow
+A
+
+NEW QUESTION 1: What is 7 plus 5?
+A) 10
+B) 11
+C) 12
+D) 13
+C
+NEW QUESTION 2: Which color is made by mixing red and white?
+A) Pink
+B) Brown
+C) Black
+D) Grey
+A
+NEW QUESTION 3: How many legs does a spider have?
+A) 6
+B) 8
+C) 4
+D) 2
+B
+NEW QUESTION 4: Which planet do we live on?
+A) Mars
+B) Earth
+C) Venus
+D) Jupiter
+B
+NEW QUESTION 5: What is the opposite of up?
+A) Left
+B) Right
+C) Down
+D) Forward
+C
+NEW QUESTION 6: Which season is cold and snowy in many places?
+A) Summer
+B) Winter
+C) Spring
+D) Autumn
+B
+NEW QUESTION 7: How many wheels does a bicycle have?
+A) 1
+B) 2
+C) 3
+D) 4
+B
+NEW QUESTION 8: Which sense do we use to hear?
+A) Taste
+B) Sight
+C) Hearing
+D) Touch
+C
+NEW QUESTION 9: Which instrument has keys and plays music?
+A) Guitar
+B) Piano
+C) Drum
+D) Violin
+B
+NEW QUESTION 10: What do plants need to grow? (choose best)
+A) Light
+B) Noise
+C) Plastic
+D) Fabric
+A
+NEW QUESTION 11: Which is 5 times 5?
+A) 20
+B) 25
+C) 30
+D) 35
+B
+NEW QUESTION 12: Which is used to write on paper?
+A) Spoon
+B) Pencil
+C) Plate
+D) Brush
+B
+NEW QUESTION 13: Which animal has a trunk?
+A) Elephant
+B) Horse
+C) Cat
+D) Rabbit
+A
+NEW QUESTION 14: Which fruit is yellow and curved?
+A) Apple
+B) Banana
+C) Grape
+D) Mango
+B
+NEW QUESTION 15: How many months in a year?
+A) 10
+B) 11
+C) 12
+D) 13
+C
+NEW QUESTION 16: What is 10 minus 4?
+A) 3
+B) 6
+C) 7
+D) 5
+B
+NEW QUESTION 17: Which is a baby dog?
+A) Kitten
+B) Puppy
+C) Calf
+D) Foal
+B
+NEW QUESTION 18: Which tool is used for hammering nails?
+A) Screwdriver
+B) Hammer
+C) Wrench
+D) Pliers
+B
+NEW QUESTION 19: Which shape is round?
+A) Square
+B) Triangle
+C) Circle
+D) Rectangle
+C
+NEW QUESTION 20: Which drink comes from cows?
+A) Juice
+B) Milk
+C) Water
+D) Soda
+B
+NEW QUESTION 21: Which number is even?
+A) 13
+B) 17
+C) 22
+D) 19
+C
+NEW QUESTION 22: Which grows in a garden and is green?
+A) Rock
+B) Flower
+C) Grass
+D) Glass
+C
+NEW QUESTION 23: What do bees make?
+A) Milk
+B) Honey
+C) Butter
+D) Cheese
+B
+NEW QUESTION 24: Which is used to clean teeth?
+A) Toothbrush
+B) Fork
+C) Spoon
+D) Knife
+A
+NEW QUESTION 25: Which animal says "meow"?
+A) Cow
+B) Dog
+C) Cat
+D) Sheep
+C
+NEW QUESTION 26: What color do you get by mixing blue and yellow?
+A) Purple
+B) Green
+C) Orange
+D) Brown
+B
+NEW QUESTION 27: Which is a flying insect?
+A) Ant
+B) Fly
+C) Fish
+D) Cow
+B
+NEW QUESTION 28: What do you call a place where books are kept?
+A) Library
+B) Hospital
+C) Market
+D) Bank
+A
+NEW QUESTION 29: How many hours are there in a day?
+A) 12
+B) 24
+C) 36
+D) 20
+B
+NEW QUESTION 30: Which object tells time?
+A) Calendar
+B) Clock
+C) Map
+D) Chair
+B

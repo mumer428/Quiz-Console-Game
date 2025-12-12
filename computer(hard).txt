@@ -1,0 +1,180 @@
+Which device stores large amounts of data?
+A) Hard Disk
+B) Mouse
+C) Speaker
+D) Keyboard
+A
+Which part of the computer displays the result?
+A) Monitor
+B) CPU
+C) Mouse
+D) Keyboard
+A
+What does GUI stand for?
+A) Graphical User Interface
+B) General User Input
+C) Graphic Utility Icon
+D) Game User Interface
+A
+Which device is used to take printed copies?
+A) Printer
+B) Scanner
+C) Mouse
+D) CPU
+A
+Which key is used to save a file in most programs?
+A) Ctrl + A
+B) Ctrl + S
+C) Ctrl + D
+D) Ctrl + F
+B
+Which component processes instructions?
+A) CPU
+B) RAM
+C) ROM
+D) Monitor
+A
+Which one is not storage?
+A) SSD
+B) HDD
+C) Pen Drive
+D) Keyboard
+D
+What does MB stand for?
+A) Mega Byte
+B) Mini Byte
+C) Memory Bar
+D) Main Byte
+A
+Which device moves the cursor?
+A) Mouse
+B) Printer
+C) USB
+D) Speaker
+A
+Which key makes capital letters?
+A) Shift
+B) Ctrl
+C) Alt
+D) Tab
+A
+What does PDF mean?
+A) Portable Document Format
+B) Print Data File
+C) Public Download File
+D) Page Document Form
+A
+Which of these is software?
+A) Windows
+B) Keyboard
+C) Mouse
+D) SSD
+A
+What connects devices to Wi-Fi?
+A) Router
+B) Scanner
+C) Monitor
+D) Speaker
+A
+Which device scans documents?
+A) Scanner
+B) Printer
+C) CPU
+D) Mouse
+A
+What does KB mean?
+A) Kilo Byte
+B) Key Block
+C) Keyboard Bit
+D) Kilo Bar
+A
+Which is an input device?
+A) Keyboard
+B) Monitor
+C) Speaker
+D) Projector
+A
+Which shortcut undoes an action?
+A) Ctrl + Z
+B) Ctrl + X
+C) Ctrl + C
+D) Ctrl + B
+A
+Where are photos stored on phones?
+A) Memory Card
+B) Speaker
+C) Charger
+D) Battery
+A
+What type of device is a microphone?
+A) Input
+B) Output
+C) Storage
+D) Processor
+A
+Which connector is for audio?
+A) AUX
+B) USB
+C) HDMI
+D) LAN
+A
+Which is a portable computer?
+A) Laptop
+B) CPU
+C) Monitor
+D) Scanner
+A
+Which device shows images on a wall?
+A) Projector
+B) Printer
+C) Mouse
+D) Router
+A
+What does IP stand for?
+A) Internet Protocol
+B) Internal Power
+C) Input Port
+D) Information Process
+A
+Which file is a video?
+A) .mp4
+B) .txt
+C) .docx
+D) .xls
+A
+Which part cools the computer?
+A) Fan
+B) RAM
+C) Pendrive
+D) Keyboard
+A
+Which tool types numbers fast?
+A) Number Pad
+B) Mouse Wheel
+C) CPU Fan
+D) USB Port
+A
+Which device is for private listening?
+A) Headphones
+B) Monitor
+C) Keyboard
+D) Router
+A
+Which cable provides wired internet?
+A) Ethernet cable
+B) HDMI cable
+C) USB cable
+D) AUX cable
+A
+Which device records video?
+A) Webcam
+B) Mouse
+C) Speaker
+D) Monitor
+A
+Which device backs up files?
+A) Pen Drive
+B) Keyboard
+C) Monitor
+D) CPU Fan
+A

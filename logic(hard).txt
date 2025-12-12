@@ -1,0 +1,497 @@
+Find the next number: 2, 3, 5, 9, 17, __
+A) 33
+B) 34
+C) 35
+D) 36
+A
+If every A is B and some B are C, which is true?
+A) Some C are A
+B) All A are C
+C) Some A are not C
+D) Cannot be determined
+D
+A clock shows 3:00. What is the angle between hands?
+A) 90 deg
+B) 60 deg
+C) 45 deg
+D) 120 deg
+A
+If + means multiply and x means minus, then 5 + 2 x 3 = ?
+A) 21
+B) 1
+C) 35
+D) 11
+A
+Which number is missing: 4, 6, 9, 6, 14, 6, __
+A) 19
+B) 20
+C) 21
+D) 22
+A
+If DOG = 26 and CAT = 24, what is BAT?
+A) 23
+B) 22
+C) 25
+D) 21
+B
+A train travels 60 km in 45 minutes. How far in 2 hours?
+A) 160 km
+B) 200 km
+C) 240 km
+D) 180 km
+D
+Which completes the pattern: 1, 2, 6, 24, __
+A) 48
+B) 120
+C) 720
+D) 144
+B
+If P = 16 and Q = 17, what is PQ (as number 1617) minus QP (1716)?
+A) ?
+B) 9
+C) -9
+D) 0
+C
+Which word does NOT belong: LAMP, BULB, WIRE, TABLE
+A) Table
+B) Wire
+C) Bulb
+D) Lamp
+A
+Find the odd one: 121, 144, 169, 190
+A) 121
+B) 144
+C) 169
+D) 190
+D
+If 7 workers do a job in 10 days, 5 workers need:
+A) 7/5
+B) 5/7
+C) 1.4
+D) 25/35
+B
+Which comes next: Z, X, V, T, __
+A) R
+B) S
+C) Q
+D) P
+A
+If 3^x = 81, x = ?
+A) 2
+B) 3
+C) 4
+D) 5
+C
+Which two words form meaningful pair: SILENT, LISTEN, ENLIST, INLETS
+A) SILENT and LISTEN
+B) SILENT and ENLIST
+C) LISTEN and ENLIST
+D) All
+D
+If A=1, B=2... Z=26, value of CODE?
+A) 34
+B) 32
+C) 31
+D) 35
+B
+Which is heaviest: 1 kg lead, 1 kg feathers, 1 kg water, 1 kg gold?
+A) All equal
+B) Lead
+C) Gold
+D) Feathers
+A
+Complete sequence: 1, 1, 2, 3, 5, 8, __
+A) 11
+B) 12
+C) 13
+D) 14
+C
+If n is even and n+1 is prime, smallest n > 2?
+A) 2
+B) 3
+C) 4
+D) 6
+D
+Mirror image of "b"?
+A) d
+B) p
+C) q
+D) g
+A
+If A=Z, B=Y, C corresponds to:
+A) X
+B) W
+C) V
+D) U
+A
+Which statement always true?
+A) All squares are rectangles
+B) All rectangles are squares
+C) Both
+D) Neither
+A
+If 5 cats catch 5 mice in 5 minutes, 100 cats catch 100 mice in:
+A) 5 minutes
+B) 100 minutes
+C) 500 minutes
+D) 50 minutes
+A
+Which is next: 2, 12, 30, 56, __
+A) 90
+B) 78
+C) 110
+D) 96
+B
+If JAN=10 and FEB=12, sum of letters for MAR (A=1)?
+A) 32
+B) 35
+C) 40
+D) 33
+D
+Find the odd one: 2/3, 3/4, 4/5, 5/7
+A) 2/3
+B) 3/4
+C) 4/5
+D) 5/7
+D
+If code of APPLE is 5, code of PLEA?
+A) 4
+B) 5
+C) 6
+D) 3
+B
+Is logic valid: All pens are pencils, some pencils are erasers, so some pens are erasers?
+A) Valid
+B) Invalid
+C) Cannot determine
+D) Sometimes
+B
+Rearrange "CONVERSE" to get opposite meaning word:
+A) Conserve
+B) Governor
+C) Converse
+D) Overscn
+C
+Find next: 10, 7, 8, 5, 6, __
+A) 3
+B) 4
+C) 2
+D) 1
+B
+If 9* means 9-3 and 5* means 5-3, 12* equals:
+A) 9
+B) 12
+C) 15
+D) 3
+A
+Which two numbers give even sum and odd product?
+A) Even+Even
+B) Odd+Odd
+C) Even+Odd
+D) None
+B
+If a is brother of b and b is mother of c, a is:
+A) Uncle/Aunt
+B) Grandparent
+C) Sibling
+D) Cousin
+A
+Which is missing: 100, 81, 64, 49, __
+A) 36
+B) 25
+C) 16
+D) 9
+A
+If every square is a rectangle and every rectangle a polygon, every square is a polygon?
+A) Yes
+B) No
+C) Sometimes
+D) Cannot
+A
+Which completes: 2, 3, 5, 7, 11, __
+A) 12
+B) 13
+C) 14
+D) 15
+B
+If CLOCK = 24, WATCH = ?
+A) ?
+B) 50
+C) 52
+D) 48
+D
+Which is not a transitive relation?
+A) Equality
+B) Divisibility
+C) Greater than
+D) Parallelism
+D
+Which word fits: three letter meaning not closed, pattern: O?
+A) Open
+B) Gap
+C) Box
+D) Door
+A
+If every X is Y and every Y is Z, true?
+A) Some Z are X
+B) All X are Z
+C) No X are Z
+D) Cannot
+B
+Which fills: 1, 4, 9, 16, 25, 36, __
+A) 48
+B) 49
+C) 50
+D) 51
+B
+If 4 men take 4 days, 8 men take:
+A) 2 days
+B) 4 days
+C) 8 days
+D) 1 day
+A
+Sum of two primes is even?
+A) Always
+B) Never
+C) Sometimes
+D) Cannot
+C
+Which number is smallest: 0.5, 1/3, 0.4, 2/5
+A) 0.4
+B) 0.5
+C) 1/3
+D) 2/5
+C
+Decode TREE if BIRD is 21918 (A=1 mapping)
+A) 2018555
+B) 2018555
+C) 2018555
+D) 2018555
+A
+Which is odd: 8, 27, 64, 125, 216
+A) 8
+B) 27
+C) 64
+D) 216
+D
+If 2x + 3 = 11, x = ?
+A) 3
+B) 4
+C) 5
+D) 6
+B
+NORTH : SOUTH :: EAST : __
+A) West
+B) Northwest
+C) South
+D) Center
+A
+If sum of digits is 9, number divisible by:
+A) 3
+B) 9
+C) Both
+D) None
+C
+Sequence: 14, 28, 42, 56, __
+A) 68
+B) 70
+C) 72
+D) 84
+B
+If binary 1010, decimal is:
+A) 8
+B) 10
+C) 12
+D) 6
+B
+Logical operator true only when both operands true:
+A) OR
+B) AND
+C) XOR
+D) NOT
+B
+
+##############################################
+### 30 NEW UNIQUE QUESTIONS (ASCII ONLY) ###
+##############################################
+
+What is next: 5, 11, 23, 47, __
+A) 95
+B) 92
+C) 90
+D) 99
+A
+Which is the odd one out: CAR, BUS, TRAIN, ROAD
+A) Car
+B) Road
+C) Bus
+D) Train
+B
+If A=1, Z=26, value of MATH?
+A) 42
+B) 40
+C) 41
+D) 39
+A
+If 6 squared is 36, 6 cubed is:
+A) 216
+B) 64
+C) 96
+D) 125
+A
+Which number is prime?
+A) 21
+B) 39
+C) 41
+D) 51
+C
+Find next: 3, 9, 27, 81, __
+A) 162
+B) 243
+C) 324
+D) 100
+B
+Which is smallest: 7/8, 6/7, 5/6, 4/5
+A) 7/8
+B) 6/7
+C) 5/6
+D) 4/5
+D
+Which is NOT a vowel?
+A) A
+B) E
+C) I
+D) Y
+D
+If SUM = 54 (S=19,U=21,M=14), CAT = ?
+A) 24
+B) 26
+C) 27
+D) 20
+A
+Which shape has 3 sides?
+A) Square
+B) Triangle
+C) Rectangle
+D) Pentagon
+B
+If 12 percent of 200 is x, x = ?
+A) 12
+B) 20
+C) 24
+D) 22
+C
+Which direction is opposite of NE?
+A) SW
+B) SE
+C) NW
+D) N
+A
+Find the next odd number after 97:
+A) 99
+B) 101
+C) 100
+D) 98
+A
+Which is heavier: 1000 g or 1 kg?
+A) 1000 g
+B) 1 kg
+C) Same
+D) None
+C
+Which word does NOT fit: RED, BLUE, GREEN, LIGHT
+A) Red
+B) Light
+C) Blue
+D) Green
+B
+What is missing: 50, 45, 40, 35, __
+A) 25
+B) 30
+C) 32
+D) 28
+B
+If 2^5 = 32, 2^6 equals:
+A) 62
+B) 64
+C) 66
+D) 60
+B
+Which fraction is largest: 1/2, 3/4, 2/3, 5/8
+A) 1/2
+B) 3/4
+C) 2/3
+D) 5/8
+B
+Opposite of left is:
+A) Down
+B) Right
+C) Up
+D) Back
+B
+Which month has 28 days?
+A) February
+B) All months
+C) January
+D) June
+B
+Which is odd: 2, 4, 6, 9
+A) 2
+B) 4
+C) 6
+D) 9
+D
+Fill the pattern: 1A, 2B, 3C, 4D, __
+A) 6F
+B) 5E
+C) 5F
+D) 4E
+B
+If 15 - x = 9, x = ?
+A) 7
+B) 6
+C) 5
+D) 4
+B
+Which fits: Sun is to day as Moon is to __
+A) Light
+B) Night
+C) Sky
+D) Star
+B
+What is next: 11, 22, 33, 44, __
+A) 55
+B) 50
+C) 66
+D) 60
+A
+A dozen equals:
+A) 10
+B) 12
+C) 14
+D) 20
+B
+Which is a mammal?
+A) Shark
+B) Whale
+C) Eagle
+D) Snake
+B
+If 9* = 27 (multiply by 3), 7* = ?
+A) 7
+B) 14
+C) 21
+D) 28
+C
+Which is a polygon?
+A) Circle
+B) Triangle
+C) Oval
+D) Sphere
+B
+Which number completes: 4, 8, 16, 32, __
+A) 40
+B) 50
+C) 64
+D) 60
+C

@@ -1,0 +1,474 @@
+What does CPU stand for?
+A) Central Processing Unit
+B) Computer Power Unit
+C) Control Program Utility
+D) Central Program Unit
+A
+Which device is used to input text into a computer?
+A) Monitor
+B) Keyboard
+C) Speaker
+D) Projector
+B
+Which one is an output device?
+A) Mouse
+B) Keyboard
+C) Printer
+D) Scanner
+C
+What does RAM stand for?
+A) Random Access Memory
+B) Read Applied Memory
+C) Rapid Action Module
+D) Remote Access Machine
+A
+Which storage device has the highest capacity?
+A) CD
+B) DVD
+C) Hard Disk
+D) Floppy Disk
+C
+What is the brain of the computer?
+A) Keyboard
+B) Mouse
+C) CPU
+D) Monitor
+C
+Which of the following is an operating system?
+A) Chrome
+B) Firefox
+C) Windows
+D) Google
+C
+What type of file is an image file?
+A) .jpg
+B) .exe
+C) .bat
+D) .dll
+A
+Which device is used to point and click?
+A) Printer
+B) Mouse
+C) Scanner
+D) Monitor
+B
+What does www stand for in a web address?
+A) World Wide Web
+B) Wide World Web
+C) World Web Window
+D) World Web Wide
+A
+Which unit is used to measure computer memory?
+A) Liter
+B) Meter
+C) Byte
+D) Gram
+C
+Which key deletes text to the right of the cursor?
+A) Backspace
+B) Enter
+C) Delete
+D) Shift
+C
+Which of the following is a web browser?
+A) MS Word
+B) Google Chrome
+C) Excel
+D) PowerPoint
+B
+What does URL stand for?
+A) Uniform Resource Locator
+B) Universal Record Link
+C) United Resource Line
+D) Universal Reference Logic
+A
+Which device stores data permanently?
+A) RAM
+B) Cache
+C) ROM
+D) Registers
+C
+Which cable is used for the internet?
+A) LAN cable
+B) USB cable
+C) HDMI cable
+D) AUX cable
+A
+Which programming language is used for web pages?
+A) C
+B) HTML
+C) Python
+D) Java
+B
+Which shortcut copies selected text?
+A) Ctrl + X
+B) Ctrl + C
+C) Ctrl + V
+D) Ctrl + Z
+B
+Which key is used to create a new line?
+A) Ctrl
+B) Shift
+C) Enter
+D) Alt
+C
+Which device shows visual output?
+A) Monitor
+B) Mouse
+C) CPU
+D) Keyboard
+A
+Which part of the computer stores data temporarily?
+A) ROM
+B) RAM
+C) SSD
+D) HDD
+B
+Which of these is NOT an input device?
+A) Mouse
+B) Keyboard
+C) Monitor
+D) Scanner
+C
+What is the full form of USB?
+A) Universal Serial Bus
+B) United Small Bus
+C) Universal System Box
+D) Ultra Speed Band
+A
+Which company created Windows?
+A) Apple
+B) Google
+C) Microsoft
+D) IBM
+C
+Which key is used to refresh a webpage?
+A) F1
+B) F3
+C) F5
+D) F7
+C
+What does AI stand for?
+A) Automatic Input
+B) Artificial Intelligence
+C) Applied Information
+D) Advanced Interface
+B
+What is the main page of a website called?
+A) Tab
+B) Homepage
+C) Scroll page
+D) Server page
+B
+Which device helps us hear sound?
+A) Keyboard
+B) Mouse
+C) Speaker
+D) Monitor
+C
+Which device is used to store files?
+A) Pen Drive
+B) Keyboard
+C) CPU Fan
+D) Webcam
+A
+Which key removes the character to the left?
+A) Shift
+B) Delete
+C) Backspace
+D) Ctrl
+C
+Which file extension is for a Word document?
+A) .txt
+B) .docx
+C) .pdf
+D) .xls
+B
+What is Google Drive used for?
+A) Video editing
+B) Cloud storage
+C) Gaming
+D) Hardware testing
+B
+Which device reads barcodes?
+A) Scanner
+B) Projector
+C) Joystick
+D) Speaker
+A
+Which action does Ctrl + V perform?
+A) Copy
+B) Paste
+C) Undo
+D) Cut
+B
+Which part connects all computer components?
+A) Motherboard
+B) Keyboard
+C) Power cable
+D) Speaker
+A
+Which key opens the Start Menu in Windows?
+A) Shift
+B) Ctrl
+C) Windows key
+D) Tab
+C
+Which unit is used to measure processing speed?
+A) GHz
+B) Kg
+C) Meter
+D) FPS
+A
+Which shortcut cuts selected text?
+A) Ctrl + C
+B) Ctrl + X
+C) Ctrl + S
+D) Ctrl + V
+B
+What does OS stand for?
+A) Open System
+B) Operating System
+C) Optical Software
+D) Online Server
+B
+Which port is used to connect a monitor?
+A) USB
+B) HDMI
+C) Ethernet
+D) Audio jack
+B
+Which computer performs calculations?
+A) Mouse
+B) Speaker
+C) CPU
+D) Webcam
+C
+Which file extension belongs to a picture?
+A) .mp3
+B) .jpg
+C) .exe
+D) .mkv
+B
+What does IP address identify?
+A) Mouse
+B) Printer
+C) Device on a network
+D) Monitor
+C
+Which device captures photographs?
+A) Scanner
+B) Webcam
+C) Projector
+D) Microphone
+B
+Which software is used to create slides?
+A) MS Word
+B) MS Excel
+C) MS PowerPoint
+D) MS Paint
+C
+Which device converts digital signals to audio?
+A) Speaker
+B) CPU
+C) Keyboard
+D) Monitor
+A
+Which of the following is anti-virus software?
+A) Facebook
+B) Instagram
+C) Avast
+D) Twitter
+C
+Which device is used for video calls?
+A) Printer
+B) Scanner
+C) Webcam
+D) Joystick
+C
+Which storage device is portable?
+A) SSD
+B) HDD
+C) Pen Drive
+D) GPU
+C
+What does PC stand for?
+A) Personal Computer
+B) Public Computer
+C) Portable Console
+D) Personal Cable
+A
+Which device is used to print documents?
+A) Mouse
+B) Printer
+C) Keyboard
+D) Scanner
+B
+Which part of a computer shows the desktop?
+A) CPU
+B) Monitor
+C) Keyboard
+D) Mouse
+B
+Which key is used to space words?
+A) Tab
+B) Shift
+C) Spacebar
+D) Ctrl
+C
+Which device stores data even when power is off?
+A) RAM
+B) ROM
+C) Monitor
+D) Mouse
+B
+Which device is used to record sound?
+A) webcam
+B) microphone
+C) printer
+D) monitor
+B
+Which device is used to move the cursor?
+A) Speaker
+B) Keyboard
+C) Mouse
+D) Printer
+C
+Which file extension is for a text file?
+A) .jpg
+B) .txt
+C) .exe
+D) .png
+B
+Which key is used to erase characters?
+A) Shift
+B) Ctrl
+C) Backspace
+D) Tab
+C
+Which storage is smallest in size?
+A) TB
+B) GB
+C) MB
+D) KB
+D
+What does JPG stand for?
+A) Java Picture Graphic
+B) Joint Photographic Group
+C) Joint Photo Generator
+D) Java Program Graphic
+B
+Which device connects a computer to a network?
+A) Printer
+B) Router
+C) Keyboard
+D) Projector
+B
+Which icon opens the Recycle Bin?
+A) Trash
+B) Folder
+C) Globe
+D) Music
+A
+Which part of computer runs programs?
+A) Monitor
+B) RAM
+C) CPU
+D) Mouse
+C
+Which shortcut selects all text?
+A) Ctrl + C
+B) Ctrl + A
+C) Ctrl + X
+D) Ctrl + S
+B
+Which key is used to exit a program?
+A) Esc
+B) Enter
+C) Shift
+D) Spacebar
+A
+Which device shows hard copies?
+A) Printer
+B) Scanner
+C) Speaker
+D) Monitor
+A
+Which device is used to scan photos?
+A) Printer
+B) Scanner
+C) Mouse
+D) Speaker
+B
+Which device stores the operating system?
+A) Hard Disk
+B) Mouse
+C) Keyboard
+D) Monitor
+A
+Which is a search engine?
+A) Word
+B) Google
+C) Excel
+D) PowerPoint
+B
+Which device is used for gaming?
+A) Joystick
+B) Printer
+C) Scanner
+D) Speaker
+A
+Which part keeps the computer cool?
+A) Monitor
+B) CPU Fan
+C) Keyboard
+D) Mouse
+B
+Which of these is an application software?
+A) Windows
+B) Linux
+C) MS Word
+D) BIOS
+C
+Which device stores photos and videos?
+A) Hard Disk
+B) Monitor
+C) Keyboard
+D) Mouse
+A
+Which mouse action opens an item?
+A) Right-click
+B) Left-click
+C) Scroll
+D) Drag
+B
+Which device outputs sound?
+A) Speaker
+B) Keyboard
+C) CPU
+D) Printer
+A
+Which part is used to type numbers?
+A) Arrow keys
+B) Function keys
+C) Number pad
+D) Shift keys
+C
+Which device is used to project a screen on a wall?
+A) Printer
+B) Projector
+C) Speaker
+D) Scanner
+B
+What does PPT stand for?
+A) PowerPoint Template
+B) Portable Program Tool
+C) Program Print Type
+D) Power Picture Tool
+A
+Which part saves files permanently?
+A) Monitor
+B) Hard Disk
+C) Mouse
+D) Keyboard
+B

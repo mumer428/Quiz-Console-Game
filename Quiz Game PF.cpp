@@ -152,35 +152,37 @@ void QuestionAccess(double& Score, int a, int& Lifelines, int& i,int &Difficulty
                                  double time_taken = difftime(end_time, start_time);
                                  cout << "Time taken: " << time_taken << " seconds\n";
                                  if (time_taken > TIME_LIMIT) {
-                                     cout << "Too slow! Answer counted as wrong.\n";
-                                     Score -= 5;
+                                     cout << "Too slow! Answer counted as wrong. Correct answer was " << correct << endl;
+                                     if (Difficulty == 1)
+                                         Score -= 2;
+                                     else  if (Difficulty == 2)
+                                         Score -= 3;
+                                     else if (Difficulty == 3)
+                                         Score -= 5;
                                  }
                                  else {
                                      if (answer == correct) {
                                          cout << "Correct!\n";
-                                         Score += 10;
+										 Score += 10;
                                          cout << "Current Score=" << Score << endl;
                                      }
                                      else {
                                          cout << "Wrong! Correct answer was " << correct << endl;
-                                         Score -= 5;
+                                         if (Difficulty == 1)
+                                             Score -= 2;
+                                         else  if (Difficulty == 2)
+                                             Score -= 3;
+                                         else if (Difficulty == 3)
+                                             Score -= 5;
                                          cout << "Current Score=" << Score << endl;
                                      }
                                  }
-                                 return;
                              }
                          }
-                         if (Difficulty == 1)
-                             Score -= 2;
-                         else  if (Difficulty == 2)
-                             Score -= 3;
-                         else if (Difficulty == 3)
-                             Score -= 5;
-                         cout << "Current Score=" << Score << endl;
-                         return;
-                       
+                                         
                      }
                      else {
+                         cout << "Wrong! Correct answer was " << correct << endl;
                          if (Difficulty == 1)
                              Score -= 2;
                          else  if (Difficulty == 2)
